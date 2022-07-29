@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FPGA图像处理/1.md",
+            "file": "Verilog/Verilog学习笔记3，奇偶校验.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "FPGA图像处理/1.md",
+            "file": "Verilog/Verilog学习笔记3，奇偶校验.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "FPGA图像处理/1.md",
+            "file": "Verilog/Verilog学习笔记3，奇偶校验.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "FPGA图像处理/1.md"
+            "file": "Verilog/Verilog学习笔记3，奇偶校验.md"
           }
         }
       }
@@ -115,8 +115,8 @@
   },
   "active": "61cf56d714192686",
   "lastOpenFiles": [
-    "Verilog/Verilog学习笔记3，奇偶校验.md",
     "FPGA图像处理/1.md",
+    "Verilog/Verilog学习笔记3，奇偶校验.md",
     "图像处理基础1.md",
     "Markdown语法.md",
     "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
