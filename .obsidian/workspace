@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "火柴人头发还有人凤凰于飞同一天.md",
+            "file": "xiwangni.md",
             "mode": "source",
             "source": false
           }
@@ -68,42 +68,58 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "d0dbb4025bc687d4",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "火柴人头发还有人凤凰于飞同一天.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "074ddc87eda67050",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "火柴人头发还有人凤凰于飞同一天.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "374b605c4cd62a3d",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "火柴人头发还有人凤凰于飞同一天.md"
+        "id": "9156c3fa012a8ed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9345fa8bcb98d3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "xiwangni.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f63596e7380a50de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "xiwangni.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fe1aeb756500b0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d9ff5493eaf693e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "xiwangni.md"
+              }
+            }
           }
         ]
       }
@@ -112,17 +128,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d82a4c71188e6693",
+  "active": "61cf56d714192686",
   "lastOpenFiles": [
-    "香港突然想他很喜欢突然/地方东西都给他对方的会发现挺好.md",
-    "火柴人头发还有人凤凰于飞同一天.md",
     "图像处理基础1.md",
-    "Verilog/Verilog学习笔记3，奇偶校验.md",
+    "未命名.md",
+    "plan.md",
     "FPGA图像处理/1.md",
     "Markdown语法.md",
-    "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
-    "README.md",
-    "未命名.md",
-    "plan.md"
+    "Verilog学习笔记3，奇偶校验.md",
+    "verilog 学习笔记2 异步复位串联T触发器.md",
+    "Verilog学习笔记4，移位运算与乘法.md",
+    "Verilog学习笔记5——位拆分与运算.md"
   ]
 }
