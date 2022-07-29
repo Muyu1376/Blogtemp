@@ -19,59 +19,56 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c371f244592551c8",
-    "type": "mobile-drawer",
+    "id": "5ee57559994ffa44",
+    "type": "split",
     "children": [
       {
-        "id": "e50e1338e6175c5d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "52f33c643faf7bee",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "ae8e3ce86e205e02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82a4c71188e6693",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d312185806bca8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "857508fbbe6ca778",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "93d8d1db4454124d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "cef0a38f20064bf3",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "c1a8ca4bec06ee5f",
-    "type": "mobile-drawer",
+    "id": "54108d7faa32d2c0",
+    "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "d0dbb4025bc687d4",
         "type": "leaf",
         "state": {
@@ -108,12 +105,14 @@
           "state": {
             "file": "火柴人头发还有人凤凰于飞同一天.md"
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "61cf56d714192686",
+  "active": "d82a4c71188e6693",
   "lastOpenFiles": [
     "香港突然想他很喜欢突然/地方东西都给他对方的会发现挺好.md",
     "火柴人头发还有人凤凰于飞同一天.md",
