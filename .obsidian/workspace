@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
+            "file": "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
             "mode": "source",
             "source": false
           }
@@ -19,122 +19,109 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ee57559994ffa44",
-    "type": "split",
+    "id": "c371f244592551c8",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "ae8e3ce86e205e02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d82a4c71188e6693",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "2d312185806bca8e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "857508fbbe6ca778",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "e50e1338e6175c5d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "52f33c643faf7bee",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "93d8d1db4454124d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "cef0a38f20064bf3",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "54108d7faa32d2c0",
-    "type": "split",
+    "id": "c1a8ca4bec06ee5f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9156c3fa012a8ed1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9345fa8bcb98d3a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "未命名.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f63596e7380a50de",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "未命名.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4fe1aeb756500b0a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "8d9ff5493eaf693e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "未命名.md"
-              }
-            }
+        "id": "d0dbb4025bc687d4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "074ddc87eda67050",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "374b605c4cd62a3d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Verilog/verilog 学习笔记2 异步复位串联T触发器.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "61cf56d714192686",
+  "active": "e50e1338e6175c5d",
   "lastOpenFiles": [
+    "README.md",
     "Markdown语法.md",
+    "未命名.md",
     "plan.md",
-    "Verilog学习笔记3，奇偶校验.md",
-    "verilog 学习笔记2 异步复位串联T触发器.md",
-    "Verilog学习笔记4，移位运算与乘法.md",
-    "Verilog学习笔记5——位拆分与运算.md"
+    "Verilog/Verilog学习笔记3，奇偶校验.md",
+    "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
+    "Verilog/Verilog学习笔记4，移位运算与乘法.md",
+    "Verilog/Verilog学习笔记5——位拆分与运算.md"
   ]
 }
