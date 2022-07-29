@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "123456/未二点七五德瓦达伟大命名 1.md",
+            "file": "诶诶诶3e/FFF团一车人大鱼大肉一天的.md",
             "mode": "source",
             "source": false
           }
@@ -19,117 +19,103 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ee57559994ffa44",
-    "type": "split",
+    "id": "60d3254280140299",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "ae8e3ce86e205e02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d82a4c71188e6693",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "2d312185806bca8e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "857508fbbe6ca778",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "b0ce3db42d9e3f49",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5fe43b988af50217",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "1d7eeec08c3206ae",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "378413321632091d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "54108d7faa32d2c0",
-    "type": "split",
+    "id": "acb4b57e8ac72890",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9156c3fa012a8ed1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9345fa8bcb98d3a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "123456/未二点七五德瓦达伟大命名 1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f63596e7380a50de",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "123456/未二点七五德瓦达伟大命名 1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4fe1aeb756500b0a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "8d9ff5493eaf693e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "123456/未二点七五德瓦达伟大命名 1.md"
-              }
-            }
+        "id": "127fef7888269639",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "诶诶诶3e/FFF团一车人大鱼大肉一天的.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "aeaf07e5b75a1b32",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "诶诶诶3e/FFF团一车人大鱼大肉一天的.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fbc8b2a0a97bb0c1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "诶诶诶3e/FFF团一车人大鱼大肉一天的.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "61cf56d714192686",
   "lastOpenFiles": [
+    "123456/未二点七五德瓦达伟大命名 1.md",
     "xiwangni.md",
     "图像处理基础1.md",
     "未命名.md",
@@ -138,7 +124,6 @@
     "Markdown语法.md",
     "Verilog学习笔记3，奇偶校验.md",
     "verilog 学习笔记2 异步复位串联T触发器.md",
-    "Verilog学习笔记4，移位运算与乘法.md",
-    "Verilog学习笔记5——位拆分与运算.md"
+    "Verilog学习笔记4，移位运算与乘法.md"
   ]
 }
