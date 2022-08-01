@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "plan.md",
+            "file": "Linux常用命令.md",
             "mode": "source",
             "source": false
           }
@@ -19,111 +19,126 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "60d3254280140299",
-    "type": "mobile-drawer",
+    "id": "aba832c44cc9cb9d",
+    "type": "split",
     "children": [
       {
-        "id": "b0ce3db42d9e3f49",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "5fe43b988af50217",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "ac7eed18cba267f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87032ded0856ad32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8431457193cffa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b6aad2dfa0088a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "1d7eeec08c3206ae",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "378413321632091d",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "acb4b57e8ac72890",
-    "type": "mobile-drawer",
+    "id": "5d06e3e012ca66ab",
+    "type": "split",
     "children": [
       {
-        "id": "127fef7888269639",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "plan.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "f1cb8ba01557c0da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "489c5dddaf7940e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux常用命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9464e5947f4e5e31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux常用命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21ef1cc671830253",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c77accd4b3d4825",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux常用命令.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "aeaf07e5b75a1b32",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "plan.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "fbc8b2a0a97bb0c1",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "plan.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "61cf56d714192686",
   "lastOpenFiles": [
-    "未命名.md",
+    "图像处理基础1.md",
+    "Markdown语法.md",
+    "plan.md",
+    "README.md",
+    "Linux常用命令.md",
     "诶诶诶3e/FFF团一车人大鱼大肉一天的.md",
     "123456/未二点七五德瓦达伟大命名 1.md",
     "xiwangni.md",
-    "图像处理基础1.md",
-    "plan.md",
     "FPGA图像处理/1.md",
-    "Markdown语法.md",
-    "Verilog学习笔记3，奇偶校验.md",
-    "verilog 学习笔记2 异步复位串联T触发器.md"
+    "Verilog学习笔记3，奇偶校验.md"
   ]
 }
