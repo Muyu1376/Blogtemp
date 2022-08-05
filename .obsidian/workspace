@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "图像处理基础1.md",
+            "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
             "mode": "source",
             "source": false
           }
@@ -19,126 +19,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aba832c44cc9cb9d",
-    "type": "split",
+    "id": "e1851819f3dfa3e7",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "ac7eed18cba267f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "87032ded0856ad32",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "b8431457193cffa4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "2b6aad2dfa0088a3",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "0a380b4e157fa2ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "59fd7460e3d7e7de",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "9ed23b70fe84dd37",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "81395d110750a651",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "5d06e3e012ca66ab",
-    "type": "split",
+    "id": "e73e429fa60a1a61",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f1cb8ba01557c0da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "489c5dddaf7940e0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "图像处理基础1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9464e5947f4e5e31",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "图像处理基础1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "21ef1cc671830253",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "8c77accd4b3d4825",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "图像处理基础1.md"
-              }
-            }
+        "id": "3641a2e0c951514f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "aaa7304898489318",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a402945fcc9b6b62",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "61cf56d714192686",
   "lastOpenFiles": [
-    "Linux常用命令.md",
-    "Markdown语法.md",
-    "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
     "Verilog/Verilog学习笔记5——位拆分与运算.md",
+    "未命名.md",
+    "Markdown语法.md",
+    "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
+    "Linux常用命令.md",
     "图像处理基础1.md",
     "plan.md",
+    "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
     "README.md",
-    "诶诶诶3e/FFF团一车人大鱼大肉一天的.md",
-    "123456/未二点七五德瓦达伟大命名 1.md",
-    "xiwangni.md"
+    "诶诶诶3e/FFF团一车人大鱼大肉一天的.md"
   ]
 }
