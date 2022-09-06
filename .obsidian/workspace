@@ -19,99 +19,114 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e1851819f3dfa3e7",
-    "type": "mobile-drawer",
+    "id": "0e24888a56012ffc",
+    "type": "split",
     "children": [
       {
-        "id": "0a380b4e157fa2ac",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "59fd7460e3d7e7de",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "911568a68f820305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ea70dbcaedb744",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "787106ed94003278",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecfc6cfcdf8de1eb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "9ed23b70fe84dd37",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "81395d110750a651",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "e73e429fa60a1a61",
-    "type": "mobile-drawer",
+    "id": "6aa8fa02ec17c564",
+    "type": "split",
     "children": [
       {
-        "id": "3641a2e0c951514f",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "fa52c43d5d8230c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b52adfa0ae9430",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "546550b1818959f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87278223b0539233",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62547c65fbe8621e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "aaa7304898489318",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "a402945fcc9b6b62",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "61cf56d714192686",
   "lastOpenFiles": [
