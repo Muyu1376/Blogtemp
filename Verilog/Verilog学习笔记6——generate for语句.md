@@ -14,7 +14,7 @@ generate for使用规则如下
 ~~~verilog
 genvar i;//循环变量必须用genvar定义
 generate for(i=0;i<1;i++)
-	begin
+	begin :起名字
 
 	end
 endgenerate
