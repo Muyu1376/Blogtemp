@@ -131,6 +131,7 @@
   "active": "61cf56d714192686",
   "lastOpenFiles": [
     "Verilog/Verilog学习笔记5——位拆分与运算.md",
+    "Verilog/Verilog学习笔记6——generate for语句.md",
     "FPGA/FPGA学习笔记1--未使用引脚定义及程序固化操作.md",
     "未命名.md",
     "Markdown语法.md",
@@ -138,7 +139,6 @@
     "图像处理基础1.md",
     "plan.md",
     "Verilog/verilog 学习笔记2 异步复位串联T触发器.md",
-    "README.md",
-    "诶诶诶3e/FFF团一车人大鱼大肉一天的.md"
+    "README.md"
   ]
 }

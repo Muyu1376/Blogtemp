@@ -10,3 +10,14 @@ for循环只能在always 语句块内使用，本质上来说，for循环在veri
 
 generate for 的作用和for 语句是一样的，但是语法规则上有所不同
 
+generate for使用规则如下
+~~~verilog
+genvar i;//循环变量必须用genvar定义
+generate for(i=0;i<1;i++)
+	begin
+
+	end
+endgenerate
+
+
+~~~
